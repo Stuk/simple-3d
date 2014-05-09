@@ -66,29 +66,27 @@
     },
     "animations": {},
     "asset": {
-        "extras": {
-            "premultipliedAlpha": true
-        },
-        "generator": "collada2gltf@134530425c95bf8f1bf0e6389779c88d48b440cf"
+        "generator": "collada2gltf@2e8483e441a5950a03e85004ac6003ba1b8f0314",
+        "premultipliedAlpha": true
     },
     "bufferViews": {
         "bufferView_49": {
-            "buffer": "spacefighter",
+            "buffer": "space",
             "byteLength": 1100,
             "byteOffset": 0,
             "target": 34963
         },
         "bufferView_50": {
-            "buffer": "spacefighter",
+            "buffer": "space",
             "byteLength": 11712,
             "byteOffset": 1100,
             "target": 34962
         }
     },
     "buffers": {
-        "spacefighter": {
+        "space": {
             "byteLength": 12812,
-            "path": "spacefighter.bin",
+            "path": "space.bin",
             "type": "arraybuffer"
         }
     },
@@ -103,8 +101,8 @@
         }
     },
     "images": {
-        "image_0": {
-            "path": "texture.jpg"
+        "F01_512_jpg": {
+            "path": "images/0_F01_512.jpg"
         }
     },
     "lights": {
@@ -120,11 +118,11 @@
         }
     },
     "materials": {
-        "body": {
+        "_1": {
             "instanceTechnique": {
                 "technique": "technique1",
                 "values": {
-                    "diffuse": "texture_image_0",
+                    "diffuse": "texture_F01_512_jpg",
                     "filterColor": [
                         1,
                         1,
@@ -135,13 +133,13 @@
                     "transparency": 1
                 }
             },
-            "name": "body"
+            "name": "_1"
         },
-        "cockpit": {
+        "_2": {
             "instanceTechnique": {
                 "technique": "technique1",
                 "values": {
-                    "diffuse": "texture_image_0",
+                    "diffuse": "texture_F01_512_jpg",
                     "filterColor": [
                         1,
                         1,
@@ -152,7 +150,7 @@
                     "transparency": 1
                 }
             },
-            "name": "cockpit"
+            "name": "_2"
         }
     },
     "meshes": {
@@ -166,7 +164,7 @@
                         "TEXCOORD_0": "accessor_47"
                     },
                     "indices": "accessor_38",
-                    "material": "body",
+                    "material": "_1",
                     "primitive": 4
                 },
                 {
@@ -176,7 +174,7 @@
                         "TEXCOORD_0": "accessor_47"
                     },
                     "indices": "accessor_41",
-                    "material": "cockpit",
+                    "material": "_2",
                     "primitive": 4
                 }
             ]
@@ -277,8 +275,8 @@
                 "a_position",
                 "a_texcoord0"
             ],
-            "fragmentShader": "spacefighter0FS",
-            "vertexShader": "spacefighter0VS"
+            "fragmentShader": "space0FS",
+            "vertexShader": "space0VS"
         }
     },
     "samplers": {
@@ -301,12 +299,12 @@
         }
     },
     "shaders": {
-        "spacefighter0FS": {
-            "path": "spacefighter0FS.glsl",
+        "space0FS": {
+            "path": "space0FS.glsl",
             "type": 35632
         },
-        "spacefighter0VS": {
-            "path": "spacefighter0VS.glsl",
+        "space0VS": {
+            "path": "space0VS.glsl",
             "type": 35633
         }
     },
@@ -409,11 +407,11 @@
         }
     },
     "textures": {
-        "texture_image_0": {
+        "texture_F01_512_jpg": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_0",
+            "source": "F01_512_jpg",
             "target": 3553,
             "type": 5121
         }
