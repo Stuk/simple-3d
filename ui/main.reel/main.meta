@@ -1,17 +1,17 @@
 {
   "blueprint_component_reference": {
-    "prototype": "mjs-volume/montage/core/meta/blueprint-reference",
+    "prototype": "digit/montage/core/meta/blueprint-reference",
     "properties": {
       "valueReference": {
         "blueprintName": "Component",
         "blueprintModule": {
-          "%": "mjs-volume/montage/ui/component.meta"
+          "%": "digit/montage/ui/component.meta"
         }
       }
     }
   },
   "root": {
-    "prototype": "mjs-volume/montage/core/meta/module-blueprint",
+    "prototype": "digit/montage/core/meta/module-blueprint",
     "properties": {
       "name": null,
       "parent": {"@": "blueprint_component_reference"},

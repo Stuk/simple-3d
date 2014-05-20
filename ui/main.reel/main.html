@@ -13,10 +13,28 @@
                 "element": {"#": "main"}
             }
         },
+        "checkbox": {
+            "prototype": "digit/ui/checkbox.reel",
+            "properties": {
+                "element": {"#": "checkbox"},
+                "checked": true
+            }
+        },
         "montageVersion": {
             "prototype": "ui/version.reel",
             "properties": {
                 "element": {"#": "montageVersion"}
+            }
+        },
+        "node": {
+            "prototype": "mjs-volume/runtime/node",
+            "properties": {
+                "hidden": false,
+                "id": "Pole",
+                "scene": {"@": "scene"}
+            },
+            "bindings": {
+                "hidden": {"<-": "!@checkbox.checked"}
             }
         },
         "scene": {
@@ -42,6 +60,7 @@
         <div data-montage-id="sceneView">
             <canvas data-montage-id="canvas"></canvas>
         </div>
+        <input type="checkbox" data-montage-id="checkbox">
     </div>
 </body>
 </html>
