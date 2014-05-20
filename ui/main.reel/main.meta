@@ -1,0 +1,27 @@
+{
+  "blueprint_component_reference": {
+    "prototype": "mjs-volume/montage/core/meta/blueprint-reference",
+    "properties": {
+      "valueReference": {
+        "blueprintName": "Component",
+        "blueprintModule": {
+          "%": "mjs-volume/montage/ui/component.meta"
+        }
+      }
+    }
+  },
+  "root": {
+    "prototype": "mjs-volume/montage/core/meta/module-blueprint",
+    "properties": {
+      "name": null,
+      "parent": {"@": "blueprint_component_reference"},
+      "propertyBlueprintGroups": {
+        "Main": []
+      },
+      "module": {
+        "%": "ui/main.reel"
+      },
+      "exportName": "Main"
+    }
+  }
+}

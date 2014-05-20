@@ -1,0 +1,1294 @@
+{
+    "accessors": {
+        "accessor_100": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 5040,
+            "byteStride": 12,
+            "count": 420,
+            "max": [
+                1,
+                0.866026,
+                1
+            ],
+            "min": [
+                -1,
+                -0.866026,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_102": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 10080,
+            "byteStride": 8,
+            "count": 420,
+            "max": [
+                1,
+                1
+            ],
+            "min": [
+                0,
+                0
+            ],
+            "type": 35664
+        },
+        "accessor_118": {
+            "bufferView": "bufferView_124",
+            "byteOffset": 6612,
+            "byteStride": 0,
+            "count": 672,
+            "type": 5123
+        },
+        "accessor_120": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 25152,
+            "byteStride": 12,
+            "count": 114,
+            "max": [
+                0.999999,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_122": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 26520,
+            "byteStride": 12,
+            "count": 114,
+            "max": [
+                1,
+                0.999969,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_16": {
+            "bufferView": "bufferView_124",
+            "byteOffset": 840,
+            "byteStride": 0,
+            "count": 6,
+            "type": 5123
+        },
+        "accessor_18": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 13440,
+            "byteStride": 12,
+            "count": 6,
+            "max": [
+                1,
+                1,
+                0
+            ],
+            "min": [
+                -1,
+                -1,
+                0
+            ],
+            "type": 35665
+        },
+        "accessor_20": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 13512,
+            "byteStride": 12,
+            "count": 6,
+            "max": [
+                0,
+                0,
+                1
+            ],
+            "min": [
+                0,
+                0,
+                1
+            ],
+            "type": 35665
+        },
+        "accessor_48": {
+            "bufferView": "bufferView_124",
+            "byteOffset": 852,
+            "byteStride": 0,
+            "count": 2016,
+            "type": 5123
+        },
+        "accessor_51": {
+            "bufferView": "bufferView_124",
+            "byteOffset": 4884,
+            "byteStride": 0,
+            "count": 864,
+            "type": 5123
+        },
+        "accessor_53": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 13584,
+            "byteStride": 12,
+            "count": 482,
+            "max": [
+                1,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -0.757019
+            ],
+            "type": 35665
+        },
+        "accessor_55": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 19368,
+            "byteStride": 12,
+            "count": 482,
+            "max": [
+                1,
+                1,
+                0.999969
+            ],
+            "min": [
+                -0.999969,
+                -1,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_71": {
+            "bufferView": "bufferView_124",
+            "byteOffset": 7956,
+            "byteStride": 0,
+            "count": 1284,
+            "type": 5123
+        },
+        "accessor_73": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 27888,
+            "byteStride": 12,
+            "count": 216,
+            "max": [
+                2.54857,
+                4.18648,
+                0.432358
+            ],
+            "min": [
+                -4.09324,
+                2.9749e-07,
+                -0.432358
+            ],
+            "type": 35665
+        },
+        "accessor_75": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 30480,
+            "byteStride": 12,
+            "count": 216,
+            "max": [
+                0.975616,
+                1,
+                0.999969
+            ],
+            "min": [
+                -0.99881,
+                -1,
+                -0.999969
+            ],
+            "type": 35665
+        },
+        "accessor_96": {
+            "bufferView": "bufferView_124",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "count": 420,
+            "type": 5123
+        },
+        "accessor_98": {
+            "bufferView": "bufferView_125",
+            "byteOffset": 0,
+            "byteStride": 12,
+            "count": 420,
+            "max": [
+                0.866026,
+                1,
+                1
+            ],
+            "min": [
+                -0.866026,
+                -1,
+                -1
+            ],
+            "type": 35665
+        }
+    },
+    "animations": {},
+    "asset": {
+        "extras": {
+            "premultipliedAlpha": true
+        },
+        "generator": "collada2gltf@1b34a658c096795b4449b08ba2b1020e98307137"
+    },
+    "bufferViews": {
+        "bufferView_124": {
+            "buffer": "StreetLamp",
+            "byteLength": 10524,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        "bufferView_125": {
+            "buffer": "StreetLamp",
+            "byteLength": 33072,
+            "byteOffset": 10524,
+            "target": 34962
+        }
+    },
+    "buffers": {
+        "StreetLamp": {
+            "byteLength": 43596,
+            "path": "StreetLamp.bin",
+            "type": "arraybuffer"
+        }
+    },
+    "cameras": {
+        "camera_0": {
+            "perspective": {
+                "aspect_ratio": 1.77778,
+                "xfov": 49.1343,
+                "zfar": 100,
+                "znear": 0.1
+            },
+            "type": "perspective"
+        }
+    },
+    "lights": {
+        "Lamp-light": {
+            "point": {
+                "color": [
+                    1,
+                    1,
+                    1
+                ],
+                "constantAttenuation": 1,
+                "linearAttenuation": 0,
+                "quadraticAttenuation": 0.00111109
+            },
+            "type": "point"
+        },
+        "Point-light": {
+            "point": {
+                "color": [
+                    1,
+                    1,
+                    1
+                ],
+                "constantAttenuation": 1,
+                "linearAttenuation": 0,
+                "quadraticAttenuation": 0.00159997
+            },
+            "type": "point"
+        },
+        "SpotLight-light": {
+            "spot": {
+                "color": [
+                    2.8,
+                    2.8,
+                    2.8
+                ],
+                "constantAttenuation": 1,
+                "fallOffAngle": 56.098,
+                "fallOffExponent": 0.15,
+                "linearAttenuation": 0,
+                "quadraticAttenuation": 0.00262982
+            },
+            "type": "spot"
+        }
+    },
+    "materials": {
+        "Glass-effect": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.8,
+                        0.764745,
+                        0.456507,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "shininess": 50,
+                    "specular": [
+                        0.5,
+                        0.5,
+                        0.5,
+                        1
+                    ],
+                    "transparency": 0.222222
+                }
+            },
+            "name": "Glass"
+        },
+        "Material_001-effect": {
+            "instanceTechnique": {
+                "technique": "technique1",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.64,
+                        0.64,
+                        0.64,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "shininess": 50,
+                    "specular": [
+                        0.0714286,
+                        0.0714286,
+                        0.0714286,
+                        1
+                    ],
+                    "transparency": 1
+                }
+            },
+            "name": "Material_001"
+        },
+        "Material_002-effect": {
+            "instanceTechnique": {
+                "technique": "technique1",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.8,
+                        0.8,
+                        0.8,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "shininess": 50,
+                    "specular": [
+                        0.150794,
+                        0.150794,
+                        0.150794,
+                        1
+                    ],
+                    "transparency": 1
+                }
+            },
+            "name": "Material_002"
+        },
+        "Metal-effect": {
+            "instanceTechnique": {
+                "technique": "technique1",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.384374,
+                        0.384374,
+                        0.384374,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "shininess": 50,
+                    "specular": [
+                        0.5,
+                        0.5,
+                        0.5,
+                        1
+                    ],
+                    "transparency": 1
+                }
+            },
+            "name": "Metal"
+        },
+        "__glTF__defaultMaterial0": {
+            "instanceTechnique": {
+                "technique": "technique2",
+                "values": {
+                    "diffuse": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            "name": "__glTF__defaultMaterial0"
+        }
+    },
+    "meshes": {
+        "Cylinder-mesh": {
+            "name": "Cylinder",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_100",
+                        "POSITION": "accessor_98",
+                        "TEXCOORD_0": "accessor_102"
+                    },
+                    "indices": "accessor_96",
+                    "material": "Material_002-effect",
+                    "primitive": 4
+                }
+            ]
+        },
+        "Plane_001-mesh": {
+            "name": "Plane.001",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_20",
+                        "POSITION": "accessor_18"
+                    },
+                    "indices": "accessor_16",
+                    "material": "Material_001-effect",
+                    "primitive": 4
+                }
+            ]
+        },
+        "Sphere-mesh": {
+            "name": "Sphere",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_55",
+                        "POSITION": "accessor_53"
+                    },
+                    "indices": "accessor_48",
+                    "material": "Metal-effect",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_55",
+                        "POSITION": "accessor_53"
+                    },
+                    "indices": "accessor_51",
+                    "material": "Glass-effect",
+                    "primitive": 4
+                }
+            ]
+        },
+        "Sphere_001-mesh": {
+            "name": "Sphere.001",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_122",
+                        "POSITION": "accessor_120"
+                    },
+                    "indices": "accessor_118",
+                    "material": "__glTF__defaultMaterial0",
+                    "primitive": 4
+                }
+            ]
+        },
+        "Torus_001-mesh": {
+            "name": "Torus.001",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_75",
+                        "POSITION": "accessor_73"
+                    },
+                    "indices": "accessor_71",
+                    "material": "Metal-effect",
+                    "primitive": 4
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "Camera": {
+            "camera": "camera_0",
+            "children": [],
+            "matrix": [
+                0.999682,
+                -0.0252003,
+                9.90947e-07,
+                0,
+                0.00576865,
+                0.228877,
+                0.973438,
+                0,
+                -0.0245311,
+                -0.973129,
+                0.22895,
+                0,
+                3.40014,
+                -36.3529,
+                14.3562,
+                1
+            ],
+            "name": "Camera"
+        },
+        "Lamp": {
+            "children": [],
+            "light": "Lamp-light",
+            "matrix": [
+                -0.290865,
+                0.955171,
+                -0.0551891,
+                0,
+                -0.771101,
+                -0.199883,
+                0.604525,
+                0,
+                0.566393,
+                0.218391,
+                0.794672,
+                0,
+                2.25714,
+                -3.95977,
+                11.392,
+                1
+            ],
+            "name": "Lamp"
+        },
+        "LightPart": {
+            "children": [],
+            "matrix": [
+                1.46002,
+                0,
+                -0.15198,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0.0532354,
+                0,
+                0.511414,
+                0,
+                7.2603,
+                0,
+                13.3214,
+                1
+            ],
+            "meshes": [
+                "Sphere-mesh"
+            ],
+            "name": "LightPart"
+        },
+        "Plane": {
+            "children": [],
+            "matrix": [
+                16.8995,
+                0,
+                0,
+                0,
+                0,
+                16.8995,
+                0,
+                0,
+                0,
+                0,
+                16.8995,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "meshes": [
+                "Plane_001-mesh"
+            ],
+            "name": "Plane"
+        },
+        "Point": {
+            "children": [],
+            "light": "Point-light",
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                4.01169,
+                10.7635,
+                18.831,
+                1
+            ],
+            "name": "Point"
+        },
+        "Pole": {
+            "children": [],
+            "matrix": [
+                0.369538,
+                0,
+                0,
+                0,
+                0,
+                0.369538,
+                0,
+                0,
+                0,
+                0,
+                6.93801,
+                0,
+                0,
+                0,
+                6.89894,
+                1
+            ],
+            "meshes": [
+                "Cylinder-mesh"
+            ],
+            "name": "Pole"
+        },
+        "Sphere": {
+            "children": [],
+            "matrix": [
+                0.412872,
+                0,
+                0,
+                0,
+                0,
+                0.412872,
+                0,
+                0,
+                0,
+                0,
+                0.412872,
+                0,
+                0,
+                0,
+                14.0776,
+                1
+            ],
+            "meshes": [
+                "Sphere_001-mesh"
+            ],
+            "name": "Sphere"
+        },
+        "SpotLight": {
+            "children": [],
+            "light": "SpotLight-light",
+            "matrix": [
+                0.993901,
+                0,
+                0.110277,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -0.110277,
+                0,
+                0.993901,
+                0,
+                7.25579,
+                0,
+                13.1811,
+                1
+            ],
+            "name": "SpotLight"
+        },
+        "StreetLight": {
+            "children": [
+                "SpotLight",
+                "LightPart",
+                "Torus_001",
+                "Pole"
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "StreetLight"
+        },
+        "Torus_001": {
+            "children": [],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                -1.32658e-08,
+                0.303486,
+                0,
+                0,
+                -0.446258,
+                -1.95066e-08,
+                0,
+                3.78967,
+                0,
+                12.5497,
+                1
+            ],
+            "meshes": [
+                "Torus_001-mesh"
+            ],
+            "name": "Torus_001"
+        }
+    },
+    "profile": "WebGL 1.0.2",
+    "programs": {
+        "program_0": {
+            "attributes": [
+                "a_normal",
+                "a_position"
+            ],
+            "fragmentShader": "StreetLamp0FS",
+            "vertexShader": "StreetLamp0VS"
+        },
+        "program_1": {
+            "attributes": [
+                "a_normal",
+                "a_position"
+            ],
+            "fragmentShader": "StreetLamp1FS",
+            "vertexShader": "StreetLamp1VS"
+        },
+        "program_2": {
+            "attributes": [
+                "a_normal",
+                "a_position"
+            ],
+            "fragmentShader": "StreetLamp2FS",
+            "vertexShader": "StreetLamp2VS"
+        }
+    },
+    "scene": "defaultScene",
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "Camera",
+                "Lamp",
+                "Plane",
+                "StreetLight",
+                "Sphere",
+                "Point"
+            ]
+        }
+    },
+    "shaders": {
+        "StreetLamp0FS": {
+            "path": "StreetLamp0FS.glsl",
+            "type": 35632
+        },
+        "StreetLamp0VS": {
+            "path": "StreetLamp0VS.glsl",
+            "type": 35633
+        },
+        "StreetLamp1FS": {
+            "path": "StreetLamp1FS.glsl",
+            "type": 35632
+        },
+        "StreetLamp1VS": {
+            "path": "StreetLamp1VS.glsl",
+            "type": 35633
+        },
+        "StreetLamp2FS": {
+            "path": "StreetLamp2FS.glsl",
+            "type": 35632
+        },
+        "StreetLamp2VS": {
+            "path": "StreetLamp2VS.glsl",
+            "type": 35633
+        }
+    },
+    "skins": {},
+    "techniques": {
+        "technique0": {
+            "parameters": {
+                "ambient": {
+                    "type": 35666
+                },
+                "diffuse": {
+                    "type": 35666
+                },
+                "filterColor": {
+                    "type": 35666,
+                    "value": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light0Color": {
+                    "type": 35665,
+                    "value": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light0Transform": {
+                    "source": "Lamp",
+                    "type": 35676
+                },
+                "light1Color": {
+                    "type": 35665,
+                    "value": [
+                        2.8,
+                        2.8,
+                        2.8
+                    ]
+                },
+                "light1Transform": {
+                    "source": "SpotLight",
+                    "type": 35676
+                },
+                "light2Color": {
+                    "type": 35665,
+                    "value": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light2Transform": {
+                    "source": "Point",
+                    "type": 35676
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                },
+                "transparency": {
+                    "type": 5126
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": true
+                            },
+                            "lightingModel": "Phong",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "filterColor",
+                                "light0Color",
+                                "light0Transform",
+                                "light1Color",
+                                "light1Transform",
+                                "light2Color",
+                                "light2Transform",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular",
+                                "transparency"
+                            ]
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position"
+                        },
+                        "program": "program_0",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_filterColor": "filterColor",
+                            "u_light0Color": "light0Color",
+                            "u_light0Transform": "light0Transform",
+                            "u_light1Color": "light1Color",
+                            "u_light1Transform": "light1Transform",
+                            "u_light2Color": "light2Color",
+                            "u_light2Transform": "light2Transform",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular",
+                            "u_transparency": "transparency"
+                        }
+                    },
+                    "states": {
+                        "blendEnable": 1,
+                        "blendEquation": 32774,
+                        "blendFunc": {
+                            "dfactor": 771,
+                            "sfactor": 1
+                        },
+                        "cullFaceEnable": 0,
+                        "depthMask": 1,
+                        "depthTestEnable": 1
+                    }
+                }
+            }
+        },
+        "technique1": {
+            "parameters": {
+                "ambient": {
+                    "type": 35666
+                },
+                "diffuse": {
+                    "type": 35666
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "filterColor": {
+                    "type": 35666,
+                    "value": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light0Color": {
+                    "type": 35665,
+                    "value": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light0Transform": {
+                    "source": "Lamp",
+                    "type": 35676
+                },
+                "light1Color": {
+                    "type": 35665,
+                    "value": [
+                        2.8,
+                        2.8,
+                        2.8
+                    ]
+                },
+                "light1Transform": {
+                    "source": "SpotLight",
+                    "type": 35676
+                },
+                "light2Color": {
+                    "type": 35665,
+                    "value": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light2Transform": {
+                    "source": "Point",
+                    "type": 35676
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                },
+                "transparency": {
+                    "type": 5126
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": true
+                            },
+                            "lightingModel": "Phong",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "emission",
+                                "filterColor",
+                                "light0Color",
+                                "light0Transform",
+                                "light1Color",
+                                "light1Transform",
+                                "light2Color",
+                                "light2Transform",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular",
+                                "transparency"
+                            ]
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position"
+                        },
+                        "program": "program_1",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_emission": "emission",
+                            "u_filterColor": "filterColor",
+                            "u_light0Color": "light0Color",
+                            "u_light0Transform": "light0Transform",
+                            "u_light1Color": "light1Color",
+                            "u_light1Transform": "light1Transform",
+                            "u_light2Color": "light2Color",
+                            "u_light2Transform": "light2Transform",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular",
+                            "u_transparency": "transparency"
+                        }
+                    },
+                    "states": {
+                        "blendEnable": 0,
+                        "cullFaceEnable": 0,
+                        "depthMask": 1,
+                        "depthTestEnable": 1
+                    }
+                }
+            }
+        },
+        "technique2": {
+            "parameters": {
+                "diffuse": {
+                    "type": 35666
+                },
+                "light0Color": {
+                    "type": 35665,
+                    "value": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light0Transform": {
+                    "source": "Lamp",
+                    "type": 35676
+                },
+                "light1Color": {
+                    "type": 35665,
+                    "value": [
+                        2.8,
+                        2.8,
+                        2.8
+                    ]
+                },
+                "light1Transform": {
+                    "source": "SpotLight",
+                    "type": 35676
+                },
+                "light2Color": {
+                    "type": 35665,
+                    "value": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light2Transform": {
+                    "source": "Point",
+                    "type": 35676
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": false
+                            },
+                            "lightingModel": "Phong",
+                            "parameters": [
+                                "diffuse",
+                                "light0Color",
+                                "light0Transform",
+                                "light1Color",
+                                "light1Transform",
+                                "light2Color",
+                                "light2Transform",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix"
+                            ]
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position"
+                        },
+                        "program": "program_2",
+                        "uniforms": {
+                            "u_diffuse": "diffuse",
+                            "u_light0Color": "light0Color",
+                            "u_light0Transform": "light0Transform",
+                            "u_light1Color": "light1Color",
+                            "u_light1Transform": "light1Transform",
+                            "u_light2Color": "light2Color",
+                            "u_light2Transform": "light2Transform",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix"
+                        }
+                    },
+                    "states": {
+                        "blendEnable": 0,
+                        "cullFaceEnable": 1,
+                        "depthMask": 1,
+                        "depthTestEnable": 1
+                    }
+                }
+            }
+        }
+    }
+}
